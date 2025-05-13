@@ -1,1 +1,17 @@
-# ltn88
+id="plugin.program.openwizard"
+phiên bản="2.0.7"
+zip="http://"
+
+name="AURA - KODI 21-22_V5"
+phiên bản="0.0.5"
+url="https://drive.google.com/file/d/1fbw3mX-NJcQnlTk4DR-g-YO6Ve_ne5FM/view?usp=drivesdk"
+nhỏ="http://"
+gui="https://www.fshare.vn/file/O6GIYYO8S4VR"
+kodi="21.0"
+chủ đề="http://"
+biểu tượng="https://i.imgur.com/QpXv00R.png"
+fanart="https://i.imgur.com/rv1DouT.png"
+xem trước="http://"
+người lớn="không"
+thông tin="https://www.fshare.vn/file/P5AQMMYQFQ69"
+description="aura Build phiên bản 0.0.5 với giao diện tùy chỉnh"
