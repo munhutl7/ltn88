@@ -4,7 +4,7 @@ zip="http://"
 
 name="AURA - KODI 21-22_V5"
 phiên bản="0.0.5"
-url="https://drive.google.com/file/d/1fbw3mX-NJcQnlTk4DR-g-YO6Ve_ne5FM/view?usp=drivesdk"
+url="https://www.dropbox.com/scl/fi/t9ggvkrssqsclowbhxx41/a21.zip?rlkey=v2z2otgxk5gjc86zz96ragcxf&st=umkqrapx&dl=0"
 nhỏ="http://"
 gui="https://www.fshare.vn/file/O6GIYYO8S4VR"
 kodi="21.0"
